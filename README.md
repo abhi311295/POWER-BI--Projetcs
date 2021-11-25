@@ -1,6 +1,6 @@
 
 # Life Cycle Of Power Bi Project:
-- Connecting to Database (Excel)
+- Connecting to Database (Excel, Web, SQl)
 - Analyzing Tables and Relation
 - Data Cleaning - `Power Query Editor`:`DAX`
 - Developing Model 
