@@ -17,3 +17,5 @@
 
 source for Covid data - https://www.worldometers.info/coronavirus/
 
+![!fraud dashboard](https://user-images.githubusercontent.com/80107475/147410005-b42f9281-1ed2-41c9-bfeb-4bc293ec2fdf.jpg)
+
